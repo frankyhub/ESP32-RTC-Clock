@@ -7,6 +7,7 @@ In diesem Projekt wird mit einem ESP32 und einen RTC-Modul der Wochentag, das Da
 Es empfiehlt sich vor der eigentlichen Inbetriebnahme das RTC-Modul mit einem Set-Programm auf die aktuelle Uhrzeit einzustellen.
 
 ![Bild](pic/ESP32-RTC.png)
+
 ESP32 RTC Clock Anzeige
 
 ## Hardware
