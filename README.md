@@ -1,3 +1,16 @@
+<a name="oben"></a>
+
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/ESP32-RTC-Clock/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/ESP32-RTC-Clock/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/ESP32-RTC-Clock/wiki)||
+|--|--|--|--|
+| | | | |
+|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2048-blue)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/ESP32-RTC-Clock)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/ESP32-RTC-Clock)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/ESP32-RTC-Clock)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/ESP32-RTC-Clock)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/ESP32-RTC-Clock)| <a href="https://github.com/frankyhub/ESP32-RTC-Clock/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/ESP32-RTC-Clock/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+</div>
+
+
+
 # ESP32-RTC-Clock
 Datum, Uhrzeit, Temperatur, Farbdisplay
 
@@ -28,6 +41,12 @@ ESP32 RTC Clock Anzeige
 + TFT-Display RS (DC) -> ESP32 13
 + TFT-Display CS -> ESP32 12
 + TFT-Display LEDA-> ESP32 3,3V
+
+---
+
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
+</div>  
 
 ---
 
