@@ -5,11 +5,10 @@
 |[:skull:ISSUE](https://github.com/frankyhub/ESP32-RTC-Clock/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/ESP32-RTC-Clock/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/ESP32-RTC-Clock/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2048-blue)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/ESP32-RTC-Clock)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/ESP32-RTC-Clock)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/ESP32-RTC-Clock)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/ESP32-RTC-Clock)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/ESP32-RTC-Clock)| <a href="https://github.com/frankyhub/ESP32-RTC-Clock/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/ESP32-RTC-Clock/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/ESP32-RTC-Clock/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/ESP32-RTC-Clock)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/ESP32-RTC-Clock)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/ESP32-RTC-Clock)|<a href="https://github.com/frankyhub/ESP32-RTC-Clock/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/ESP32-RTC-Clock)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2048-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/ESP32-RTC-Clock)| <a href="https://github.com/frankyhub/ESP32-RTC-Clock/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/ESP32-RTC-Clock/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
 
 # ESP32-RTC-Clock
 Datum, Uhrzeit, Temperatur, Farbdisplay
@@ -19,7 +18,10 @@ Datum, Uhrzeit, Temperatur, Farbdisplay
 In diesem Projekt wird mit einem ESP32 und einen RTC-Modul der Wochentag, das Datum, die Uhrzeit und die Temperatur auf einem TFT 1.77"-Display angezeigt. Mit Verwendung des RTC-Moduls ist kein WLAN notwendig.
 Es empfiehlt sich vor der eigentlichen Inbetriebnahme das RTC-Modul mit einem Set-Programm auf die aktuelle Uhrzeit einzustellen.
 
-![Bild](pic/ESP32-RTC.png)
+
+<img src="pic/ESP32-RTC.png" width="300"> 
+<br> <br>
+
 
 ESP32 RTC Clock Anzeige
 
