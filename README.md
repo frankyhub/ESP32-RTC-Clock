@@ -19,9 +19,6 @@ Es empfiehlt sich vor der eigentlichen Inbetriebnahme das RTC-Modul mit einem Se
 <img src="pic/ESP32-RTC.png" width="300"> 
 <br> <br>
 
-
-ESP32 RTC Clock Anzeige
-
 ## Hardware
 
 + 1 x ESP32
